@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "가전노트",
+  "brand": "APPLIANCE NOTE",
+  "mark": "AN",
+  "worker": "appliancenote",
+  "url": "https://appliancenote.webnote-lab.workers.dev",
+  "description": "생활가전의 사용 조건, 설정과 관리 방법을 정리합니다.",
+  "tagline": "가전을 이해하고 사용하기",
+  "categories": [
+    {
+      "slug": "refrigerator",
+      "name": "냉장고",
+      "description": "냉장고 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "washer",
+      "name": "세탁기",
+      "description": "세탁기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "dryer",
+      "name": "건조기",
+      "description": "건조기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "dishwasher",
+      "name": "식기세척기",
+      "description": "식기세척기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "robot-vacuum",
+      "name": "로봇청소기",
+      "description": "로봇청소기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "air-conditioner",
+      "name": "에어컨",
+      "description": "에어컨 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "air-purifier",
+      "name": "공기청정기",
+      "description": "공기청정기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "water-purifier",
+      "name": "정수기",
+      "description": "정수기 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "microwave",
+      "name": "전자레인지",
+      "description": "전자레인지 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "cordless-vacuum",
+      "name": "무선청소기",
+      "description": "무선청소기 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/appliancenote/issues"
+}
